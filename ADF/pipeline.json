@@ -1,0 +1,52 @@
+[
+    {
+        "project1_parameter_url" : "anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Product_Categories.csv",
+        "pr_dynamic_folder" : "AdventureWorks_Product_Categories",
+        "pr_dynamic_filename" : "AdventureWorks_Product_Categories.csv"
+    },
+    {
+        "project1_parameter_url" : "anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Calendar.csv",
+        "pr_dynamic_folder" : "AdventureWorks_Calendar",
+        "pr_dynamic_filename" : "AdventureWorks_Calendar.csv"
+    },
+    {
+        "project1_parameter_url" : "anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Customers.csv",
+        "pr_dynamic_folder" : "AdventureWorks_Customers",
+        "pr_dynamic_filename" : "AdventureWorks_Customers.csv"
+    },
+    {
+        "project1_parameter_url" : "anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
+        "pr_dynamic_folder" : "Product_Subcategories",
+        "pr_dynamic_filename" : "AdventureWorks_Product_Subcategories.csv"
+    },
+    {
+        "project1_parameter_url" : "anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Products.csv",
+        "pr_dynamic_folder" : "AdventureWorks_Products",
+        "pr_dynamic_filename" : "AdventureWorks_Products.csv"
+    },
+    {
+        "project1_parameter_url" : "anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Returns.csv",
+        "pr_dynamic_folder" : "AdventureWorks_Returns",
+        "pr_dynamic_filename":"AdventureWorks_Returns.csv"
+    },
+    {
+        "project1_parameter_url" : "anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Sales_2015.csv",
+        "pr_dynamic_folder" : "AdventureWorks_Sales_2015",
+        "pr_dynamic_filename" : "AdventureWorks_Sales_2015.csv"
+    },
+    {
+        "project1_parameter_url" : "anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Sales_2016.csv",
+        "pr_dynamic_folder" : "AdventureWorks_Sales_2016",
+        "pr_dynamic_filename" : "AdventureWorks_Sales_2016.cvsv"
+    },
+    {
+        "project1_parameter_url" : "anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Sales_2017.csv",
+        "pr_dynamic_folder" : "AdventureWorks_Sales_2017",
+        "pr_dynamic_filename" : "AdventureWorks_Sales_2017.csv"
+    },
+    {
+        "project1_parameter_url" : "anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Territories.csv",
+        "pr_dynamic_folder" : "AdventureWorks_Territories",
+        "pr_dynamic_filename" : "AdventureWorks_Territories.csv"
+    }
+]
