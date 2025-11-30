@@ -31,6 +31,8 @@ On-Prem Source → Azure Data Factory → ADLS (Bronze → Silver → Gold)
                                       Azure Databricks
                                               ↓
                                       Azure Synapse Analytics
+                                              ↓
+                                           Power BI
 ```
 
 **Architecture Diagram:** `architecture/project-diagram.png` 
