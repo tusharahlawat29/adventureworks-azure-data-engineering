@@ -115,10 +115,15 @@ adventureworks-azure-data-engineering/
 ## 📘 Key Learning Outcomes
 
 ✔ Azure cloud data engineering best practices
+
 ✔ Dynamic pipelines in Azure Data Factory
+
 ✔ Spark transformations in Databricks (Bronze → Silver → Gold)
+
 ✔ Data Lake architecture & Delta Lake optimization
+
 ✔ End-to-end integration with Synapse Analytics
+
 ✔ Analytical insights generation and Power BI integration
 
 ---
@@ -135,5 +140,6 @@ Designed ingestion workflows, implemented Spark-based transformations (Bronze �
 ## 📣 Author
 
 **Tushar Ahlawat**
+
 Aspiring Data Engineer | Azure & Databricks Enthusiast
 
